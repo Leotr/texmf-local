@@ -55,7 +55,7 @@
 %% Page layout
 %%
 
-\settypeblocksize{*}{33em}{1.618}
+\settypeblocksize{*}{3em3}{1.618}
 \setlrmargins{*}{*}{1.618}
 \setulmargins{*}{*}{1.2}
 \setmarginnotes{2pc}{9pc}{\baselineskip}
