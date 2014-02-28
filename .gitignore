@@ -1,6 +1,7 @@
 2013/
 # Created by http://www.gitignore.io
-
+ls-R
+bibtex/bib
 ### TeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
